@@ -12,5 +12,11 @@
 ```
 git config --system core.longpaths true
 ```
-
+###please tell me who you are.怎么解决
+then tell it who are you
+example
+```
+	 git config  user.email "你的邮箱"
+	git config user.name "你的名字"
+```
 
