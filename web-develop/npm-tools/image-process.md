@@ -1,0 +1,1 @@
+[image-min](https://www.npmjs.com/package/imagemin)

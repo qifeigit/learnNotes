@@ -1,0 +1,1 @@
+[linux下编译全过程](http://www.lurklurk.org/linkers/linkers.html)

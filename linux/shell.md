@@ -1,0 +1,1 @@
+[linux命令的](http://man.linuxde.net/)
