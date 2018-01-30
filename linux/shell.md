@@ -15,3 +15,11 @@ chown user:group xx.txt
 
 /usr/sbin/logrotate /etc/logrotate.conf  
 https://jin-yang.github.io/post/logrotate-usage.html
+
+/var/log/scc/tomcat/logs/catalina.out {
+  2      daily
+  3      rotate 10
+  4      size +50k
+  5      missingok
+  6      copytruncate
+  7 }
