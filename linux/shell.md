@@ -9,3 +9,7 @@ find ./mnt  -mmin 180
 
 改变文件用户及组
 chown user:group xx.txt
+
+
+强制执行logrotate
+/usr/sbin/logrotate /etc/logrotate.conf
