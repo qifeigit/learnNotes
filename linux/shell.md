@@ -12,4 +12,6 @@ chown user:group xx.txt
 
 
 强制执行logrotate
-/usr/sbin/logrotate /etc/logrotate.conf
+
+/usr/sbin/logrotate /etc/logrotate.conf  
+https://jin-yang.github.io/post/logrotate-usage.html
