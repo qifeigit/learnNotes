@@ -13,7 +13,7 @@ chown user:group xx.txt
 
 强制执行logrotate
 
-/usr/sbin/logrotate /etc/logrotate.conf  
+logrotate --force /etc/logrotate.d/tomcat
 https://jin-yang.github.io/post/logrotate-usage.html
 
 /var/log/scc/tomcat/logs/catalina.out {
