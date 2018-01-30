@@ -16,7 +16,7 @@ chown user:group xx.txt
 logrotate --force /etc/logrotate.d/tomcat
 https://jin-yang.github.io/post/logrotate-usage.html
 
-/var/log/scc/tomcat/logs/catalina.out {
+/var/log/catalina.out {
         daily
        rotate 10
        size +50k
