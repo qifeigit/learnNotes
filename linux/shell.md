@@ -23,3 +23,7 @@ https://jin-yang.github.io/post/logrotate-usage.html
        missingok
         copytruncate
    }
+   
+   
+   free命令详解 https://www.cnblogs.com/coldplayerest/archive/2010/02/20/1669949.html          
+   
