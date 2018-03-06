@@ -1,0 +1,21 @@
+
+window下打包运行war包
+
+删除原来的war包
+删除原来的目录
+复制新的war到当前目录
+解压war包
+创建目录
+移动解压后的文件至目标目录
+复制配置文件
+启动tomcat
+
+del xxx.war
+rd/s/q xxx
+copy D:\project\xxx\target\xxx.war D:\apache-tomcat\webapps\xxx.war
+jar -xvf xxx.war
+mkdir xxx
+move META-INF xxx\META-INF
+move WEB-INF xxx\WEB-INF
+copy server.conf xxx\WEB-INF\classes\server.conf
+D:\apache-tomcat\bin\startup.bat
