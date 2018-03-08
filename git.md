@@ -1,3 +1,6 @@
+
+[git ignore 不生效](http://www.cnblogs.com/willbin/p/3821894.html)
+
 git获取不到远程的分支
 https://codeday.me/bug/20170704/35218.html
 
