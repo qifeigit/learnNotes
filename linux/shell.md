@@ -27,3 +27,6 @@ https://jin-yang.github.io/post/logrotate-usage.html
    
    free命令详解 https://www.cnblogs.com/coldplayerest/archive/2010/02/20/1669949.html          
    
+
+scp限速
+http://blog.mreald.com/108
