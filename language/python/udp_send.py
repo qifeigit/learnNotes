@@ -1,8 +1,8 @@
 
 import socket
 import time
-
-address = ('127.0.0.0', 9876)
+#注意，udp接收端的地址为127.0.0.1时候不生效
+address = ('127.0.0.1', 9876)
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 
