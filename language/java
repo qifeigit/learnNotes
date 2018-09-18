@@ -9,3 +9,9 @@ Jackson : was expecting double-quote to start field name
 
 
 [判断两个字符串相等](http://blog.csdn.net/u012585964/article/details/51769292)
+
+
+spring boot 内置的tomcat 会有内存泄露的问题
+
+
+java内存泄露怎么办？ visualvm 查看堆 
